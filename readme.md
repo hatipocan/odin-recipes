@@ -1,0 +1,1 @@
+this is a basic website project for The Odin Project prepared with entry level html commands
