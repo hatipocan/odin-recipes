@@ -1,1 +1,1 @@
-this is a basic website project for The Odin Project prepared with entry level html commands
+this is a basic website project for The Odin Project prepared with entry level html commands. The site is about a favorite food recipe.
